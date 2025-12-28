@@ -1,5 +1,8 @@
 Java 個人理財分析系統 (Personal Finance System)
 
+此專案為Java學習過程中的實作學習。
+作者 Jocelyn Wang
+
 這是一個使用 Java 開發的文字介面（Console-based）理財工具。旨在幫助使用者進行基本的財務健康診斷、投資試算以及貸款評估。
 
 功能特色
