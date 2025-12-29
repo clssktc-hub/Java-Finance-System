@@ -22,11 +22,3 @@ Java 個人理財分析系統 (Personal Finance System)
     * 陣列操作 (Arrays)
     * 數學運算 (Math Class)
     * 格式化輸出 (String Formatting)
-
-如何執行
-
-1. 確保電腦已安裝 Java (JDK)。
-2. 下載 `PersonalFinanceSystem.java`。
-3. 開啟終端機 (Terminal) 或 CMD，編譯程式：
-   ```bash
-   javac PersonalFinanceSystem.java
